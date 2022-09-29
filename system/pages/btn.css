@@ -1,0 +1,38 @@
+.btns1{
+  
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.green{
+    background-color: #199319;
+    color:white;
+}
+
+.red{
+    background-color: red;
+    color:white;
+}
+.btns1 a:hover{
+color:white;
+}
+#locate{
+    border: none;
+    outline: none;
+   
+    color: #5372F0;
+    padding:10px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 500;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.1);
+  }
